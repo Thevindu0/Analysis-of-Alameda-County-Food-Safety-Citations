@@ -30,17 +30,17 @@ To better create the charts, here are some of the major data cleaning steps take
 ## 3. Visualizing the Findings
 
 ### Chart 1: Total Documented Food Violations by City
-![This is a chart showing total Documented Food Violations by City](Violation Count per City.png)
+![This is a chart showing total Documented Food Violations by City](ViolationCountPerCity.png)
 * **Caption:** This chart maps out the raw volume of food safety citations across Alameda County municipalities. Oakland significantly leads the dataset with over 15,000 logged citations, followed by Hayward and Fremont, which both have around 5,500. This chart shows us that more urban areas like Oakland, with higher amounts of permits, have a higher number of citations. Meaning that they could have the same or less percentage of citations as other cities, but because we are only looking at the raw number, we see that Oakland has the most citations. 
 * **Source:** Alameda County Department of Environmental Health.
 
 ### Chart 2: Pervasiveness of Specific Violation Types
-![This is a chart showing the  pervasiveness of Specific Violation Types](violation_types_chart.png)
+![This is a chart showing the  pervasiveness of Specific Violation Types](CountsofViolationTypes.png)
 * **Caption:** By combining very similar citation labels and using only citations that have higher than 500 citations, we can clean the raw dataset’s text and put in our own short labels to make it easier to identify what the citation is. This chart illustrates that minor structural defects (3,782 instances), dirty preparation surfaces (3,500 instances), and dirty equipment (3,496 instances) represent the vast majority of county citations. While serious chemical or thermometer issues remain relatively rare. 
 * **Source:** Alameda County Department of Environmental Health.
 
 ### Chart 3: Volume of Logged Citations Grouped by Month
-![This is a chart showing  volume of Logged Citations Grouped by Month](monthly_violations_chart.png)
+![This is a chart showing  volume of Logged Citations Grouped by Month](AmountofViolationsbyMonth.png)
 * **Caption:** An overview of citation volume across 2024, sorted by ascending total count. June recorded the fewest infractions at roughly 2,500, while April recorded the highest volume, nearly doubling that total with roughly 5,000 entries. 
 * **Source:** Alameda County Department of Environmental Health.
 
