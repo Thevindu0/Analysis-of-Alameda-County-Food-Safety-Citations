@@ -30,7 +30,7 @@ To better create the charts, here are some of the major data cleaning steps take
 ## 3. Visualizing the Findings
 
 ### Chart 1: Total Documented Food Violations by City
-![This is a chart showing total Documented Food Violations by City](city_violations_chart.png)
+![This is a chart showing total Documented Food Violations by City](Violation Count per City.png)
 * **Caption:** This chart maps out the raw volume of food safety citations across Alameda County municipalities. Oakland significantly leads the dataset with over 15,000 logged citations, followed by Hayward and Fremont, which both have around 5,500. This chart shows us that more urban areas like Oakland, with higher amounts of permits, have a higher number of citations. Meaning that they could have the same or less percentage of citations as other cities, but because we are only looking at the raw number, we see that Oakland has the most citations. 
 * **Source:** Alameda County Department of Environmental Health.
 
